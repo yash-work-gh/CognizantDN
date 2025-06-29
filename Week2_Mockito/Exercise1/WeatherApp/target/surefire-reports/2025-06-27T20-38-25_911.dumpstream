@@ -1,0 +1,5 @@
+# Created at 2025-06-27T20:38:26.414
+Boot Manifest-JAR contains absolute paths in classpath 'D:\CognizantDN\Week2_Mockito\Exercise1\WeatherApp\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
